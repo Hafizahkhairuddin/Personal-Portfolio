@@ -1,0 +1,44 @@
+h5 { color: #800080;
+font-family:  'Langar', cursive;
+font-size: 20px;
+}
+
+h2{font-family:  'Work Sans', sans-serif;
+font-size: 35px;
+
+color: #FF7F50
+
+}
+
+h1{ font-family: 'Dancing Script', cursive; }
+
+
+a:link
+	{
+		color: #556B2F;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+a:visited
+	{
+		color: #191970;
+		background-color: transparent;
+		text-transform-decoration: none;
+		}
+
+a:hover
+	{
+		color: #BC8F8F;
+		background-color: #F4A460;
+		text-decoration: none;
+		}
+
+a:active
+	{
+		color: #DAA520;
+		background-color: #B8860B;
+		text-decoration: none;
+		}
+
+h5{ style= "border: 2px dotted #DEB887"}
